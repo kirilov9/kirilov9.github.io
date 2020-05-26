@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Dr Nikola Kirilov</title>
+<link rel="stylesheet" type="text/css" href="css/prof.css">
+<link rel="stylesheet" type="text/css" href="css/sidenav.css">
+<link rel="stylesheet" type="text/css" href="css/slideshow.css">
+<script type="text/javascript" src="js/prof.js"></script>
+<script type="text/javascript" src="js/slideshow.js"></script>
+<script type="text/javascript" src="js/sidenav.js.php?cssdir=<?php echo $css_dir; ?>"></script>
+</head>
+
+<body>
+<div class="topnav">
+	<div class="header">
+		<a  class="relem headertext" href="index.php">Dr Nikola Kirilov</a>
+	</div>
+	
+<div id="topmenu" class="topmenu">
+
+  <a href="https://github.com/kirilov9">To GitHub</a>
+</div> 
+</div>
+<div class="else">
+<div id="wrapper" class="wrapper">
+  <div id="result">
+  <div class="box">
+<div class="slideshow-container">
+
+
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="gallery/drkirilov.jpg" style="width:100%">
+    <div class="text"></div>
+  </div>
+
+  
+</div>
+</div>
+<div class="box">
+<p>About me</p>
+<p2>My name is Nikola Kirilov and I am a bioinformatician and a medical doctor. My main interests include software engineering, biology and medicine. I'm passionate about developing innovative ideas and solutions in these fields and I'm determined to apply my diverse knowledge and experience. </p2>
+</div>
+  <div class="footer">
+Dr Nikola Kirilov 2019
+</div>
+</div>
+</div>
+</body>
+</html>
